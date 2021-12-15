@@ -8,11 +8,11 @@
 
 
 
- #Segue o link para acessar o projeto 
+ # Segue o link para acessar o projeto 
  https://nikollyamancioport.netlify.app/
 
 
-💼 #Tecnologias utilizadas
+# 💼Tecnologias utilizadas
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 
 - HTML;
